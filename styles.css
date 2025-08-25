@@ -16,43 +16,43 @@ footer {
   font-family: sans-serif;
 }
 #colorchangeOne{
-  background-image:url(crash.png);
+  background-image:url(tom1.png);
   display: inline-flex;
   justify-content: center;
   align-items: center;
 }
 #colorchangeTwo{
-  background-image: url(kick.png);
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-}
-#colorchangeThree{
-  background-image: url(snare.png);
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-}
-#colorchangeFour{
-  background-image: url(tom1.png);
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-}
-#colorchangeFive{
   background-image: url(tom2.png);
   display: inline-flex;
   justify-content: center;
   align-items: center;
 }
-#colorchangeSix{
+#colorchangeThree{
   background-image: url(tom3.png);
   display: inline-flex;
   justify-content: center;
   align-items: center;
 }
-#colorchangeSeven{
+#colorchangeFour{
   background-image: url(tom4.png);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+#colorchangeFive{
+  background-image: url(crash.png);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+#colorchangeSix{
+  background-image: url(kick.png);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+#colorchangeSeven{
+  background-image: url(snare.png);
   display: inline-flex;
   justify-content: center;
   align-items: center;
